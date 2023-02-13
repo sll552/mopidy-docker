@@ -1,4 +1,4 @@
 Mopidy==3.4.1
-Mopidy-Iris==3.66.0
+Mopidy-Iris==3.66.1
 Mopidy-MPD==3.3.0
 Mopidy-Local==3.2.1
