@@ -1,4 +1,4 @@
-FROM alpine:3.18.4
+FROM alpine:3.19.1
 
 RUN apk --no-cache upgrade && \
     apk --no-cache add python3 py3-gobject3 py3-pip python3-dev build-base tini bash gettext && \
